@@ -12,13 +12,13 @@ One way to automatically preload your new VM with the latest Docker version supp
 
 This git repo provides a basic bash script for the installation of Docker on Ubuntu 14.04 instances.
 
-### Usage Prep
+### SoftLayer
+
+#### Account Setup
 
 Copy the RAW URL for the udi.sh file to your clipboard: https://raw.githubusercontent.com/vinomaster/UbuntuDockerInstaller/master/udi.sh
 
-### SoftLayer Setup
-
-#### Account Setup
+Note: SoftLayer allows you to use a URL to access the. 
 
 Before we can use a provisioing script we must add it to your SoftLayer Account. There is a 20 char max length on the name of provisioning scripts in Softlayer. We will use name = "UbuntuDockerInstall".
 
@@ -36,7 +36,17 @@ Before we can use a provisioing script we must add it to your SoftLayer Account.
 4. On teh **Order Summary and Billing** page, select the UbuntuDockerInstall Provision Script in the dropdown.
 5. Complete the form and submit your order.
 
-### AWS Setup
+### AWS
+
+Copy the contents of the udi.sh file to your clipboard: https://raw.githubusercontent.com/vinomaster/UbuntuDockerInstaller/master/udi.sh
+
+Note: You must cut/paste the entire script text into the form. 
+
+1. Log into your EC2 Dashboard
+2. In the **Instances** panel, click on the **Launch Instance** button.
+3. Fill out your form details. 
+4. In **Step 3** under **Advanced Details** click on the **As text** radio button and copy the contnet of the udi.sh file into the text box.
+5. Complete and submit the form.
 
 ### References
 
