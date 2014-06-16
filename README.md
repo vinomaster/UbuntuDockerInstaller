@@ -14,7 +14,7 @@ This git repo provides a basic bash script for the installation of Docker on Ubu
 
 ### Usage Prep
 
-1. Copy the RAW URL for the udi.sh file to your clipboard: https://raw.githubusercontent.com/vinomaster/UbuntuDockerInstaller/master/udi.sh
+Copy the RAW URL for the udi.sh file to your clipboard: https://raw.githubusercontent.com/vinomaster/UbuntuDockerInstaller/master/udi.sh
 
 ### SoftLayer Setup
 
