@@ -51,3 +51,4 @@ Note: You must cut/paste the entire script text into the form.
 ### References
 
 * [Softlayer Provisioning Scripts](http://bodenr.blogspot.com/2014/04/giving-your-softlayer-servers.html)
+* [Raw GitHub Gist URL](https://gist.githubusercontent.com/vinomaster/f384ab128ddafea6d557/raw/f50befcc4e6383db19b9f6060455caf98e38ce47/BootstrapDockerOnUbuntu.sh)
